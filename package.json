@@ -1,0 +1,14 @@
+{
+  "name": "v18.17.1-linux-x64",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammed Salama",
+  "license": "ISC"
+}
